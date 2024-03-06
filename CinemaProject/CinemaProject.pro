@@ -11,11 +11,13 @@ CONFIG += c++17
 SOURCES += \
     main.cpp \
     login.cpp \
+    users.cpp \
     welcomewindow.cpp
 
 HEADERS += \
     login.h \
     resgisterwindow.h \
+    users.h \
     welcomewindow.h
 
 FORMS += \
