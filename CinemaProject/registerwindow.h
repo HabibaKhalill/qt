@@ -1,5 +1,5 @@
-#ifndef RESGISTERWINDOW_H
-#define RESGISTERWINDOW_H
+#ifndef REGISTERWINDOW_H
+#define REGISTERWINDOW_H
 
 #include <QDialog>
 
@@ -19,4 +19,4 @@ private:
     Ui::ResgisterWindow *ui;
 };
 
-#endif // RESGISTERWINDOW_H
+#endif // REGISTERWINDOW_H
