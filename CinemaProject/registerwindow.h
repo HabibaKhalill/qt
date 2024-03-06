@@ -15,6 +15,9 @@ public:
     explicit ResgisterWindow(QWidget *parent = nullptr);
     ~ResgisterWindow();
 
+private slots:
+    void on_pushButton_clicked();
+
 private:
     Ui::ResgisterWindow *ui;
 };
